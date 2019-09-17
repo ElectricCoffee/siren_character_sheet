@@ -1,0 +1,10 @@
+.info-field {
+  display: inline-block;
+  width: auto;
+  padding: 0 5px;
+}
+
+.info-field label {
+  padding: 0 5px;
+  font-weight: bold;
+}

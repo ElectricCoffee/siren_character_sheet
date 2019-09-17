@@ -1,0 +1,22 @@
+.trait span {
+  text-transform: capitalize;
+  font-size: 16pt;
+  font-weight: bold;
+  display: inline-block;
+  width: 3em;
+  text-align: center;
+}
+
+.trait input {
+  height: 50px;
+  width: 50px;
+  font-size: 16pt;
+  text-align: center;
+  -moz-appearance: textfield;
+}
+
+.trait input::-webkit-inner-spin-button,
+.trait input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
