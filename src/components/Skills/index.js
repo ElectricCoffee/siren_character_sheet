@@ -1,5 +1,5 @@
 import React from "react";
-import "./Skills.css";
+import "./Skills.scss";
 
 function Skill({ name, trait1, trait2 }) {
   return (

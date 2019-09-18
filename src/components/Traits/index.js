@@ -1,5 +1,5 @@
 import React from "react";
-import "./Traits.css";
+import "./Traits.scss";
 
 function Trait({ name, onUpdate, init = 0 }) {
   return (

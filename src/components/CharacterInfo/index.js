@@ -1,5 +1,5 @@
 import React from "react";
-import "./CharacterInfo.css";
+import "./CharacterInfo.scss";
 
 function InfoField({ name, type = "text" }) {
   return (
